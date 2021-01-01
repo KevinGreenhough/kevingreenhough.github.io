@@ -26,6 +26,14 @@
   description: Description of photo goes here
   image: assets/images/folio/panos/Tokyo Skytree.jpg
   section: panos
+- title: Karly i
+  description: Description of photo goes here
+  image: assets/images/folio/people/Karly 1.jpg
+  section: people
+- title: Karly ii
+  description: Description of photo goes here
+  image: assets/images/folio/people/Karly 2.jpg
+  section: people
 - title: Karly iii
   description: Description of photo goes here
   image: assets/images/folio/people/Karly 3.jpg
@@ -51,6 +59,10 @@
   image: assets/images/folio/people/Lady of the Forest Concept Shoot 3.jpg
   section: people
 - title: Nathan and His Car
+  description: Description of photo goes here
+  image: assets/images/folio/people/Nathan and His Car.jpg
+  section: people
+- title: Devin 
   description: Description of photo goes here
   image: assets/images/folio/people/Nathan and His Car.jpg
   section: people
