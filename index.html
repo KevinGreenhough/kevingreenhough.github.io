@@ -37,7 +37,9 @@ layout: default
                         <!-- portfolio start -->
                         <div   id="portfolio_horizontal_container" class="two-ver-columns lightgallery">
                             <!-- portfolio_item-->
-                            {% for photo in site.data.photos %}
+                            {% assign n = site.data.photos | size %}
+                            {% assign photos = site.data.photos | sample: n %}
+                            {% for photo in photos %}
                             <div class="portfolio_item {{photo.section}}">
                                 <div class="grid-item-holder hov_zoom">
                                     <img  src="{{photo.image}}"    alt="">
