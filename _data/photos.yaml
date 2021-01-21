@@ -15,10 +15,6 @@
   description: Description of photo goes here
   image: assets/images/folio/panos/Oia Sunset.jpg
   section: panos
-- title: Sianna, Drumheller, AB
-  description: Description of photo goes here
-  image: assets/images/folio/panos/Sianna, Drumheller, AB.jpg
-  section: panos
 - title: Karly i
   description: Description of photo goes here
   image: assets/images/folio/people/Karly 1.jpg
@@ -179,6 +175,10 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Julia Lantern.jpg
   section: people
+- title: Sianna, Drumheller, AB
+  description: Description of photo goes here
+  image: assets/images/folio/panos/Sianna, Drumheller, AB.jpg
+  section: panos
 - title: Julia with Detective Jane Quillington
   description: Description of photo goes here
   image: assets/images/folio/people/Julia with Detective Jane Quillington.jpg
