@@ -67,10 +67,6 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Nik, Tokyo Japan.jpg
   section: people
-- title: Party Time
-  description: Description of photo goes here
-  image: assets/images/folio/people/Party Time.jpg
-  section: people
 - title: Amanda i
   description: Description of photo goes here
   image: assets/images/folio/people/Amanda 1.jpg
@@ -78,10 +74,6 @@
 - title: Amanda ii
   description: Description of photo goes here
   image: assets/images/folio/people/Amanda 2.jpg
-  section: people
-- title: Amanda iii
-  description: Description of photo goes here
-  image: assets/images/folio/people/Amanda 3.jpg
   section: people
 - title: Arah i
   description: Description of photo goes here
@@ -195,10 +187,6 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Rajni.jpg
   section: people
-- title: Canyonlands National Park, Utah
-  description: Description of photo goes here
-  image: assets/images/folio/panos/Canyonlands National Park, UT.jpg
-  section: panos
 - title: Steve i
   description: Description of photo goes here
   image: assets/images/folio/people/Steve 1.jpg
@@ -214,10 +202,6 @@
 - title: Szabina
   description: Description of photo goes here
   image: assets/images/folio/people/Szabina.jpg
-  section: people
-- title: Szidi and the Blue Door
-  description: Description of photo goes here
-  image: assets/images/folio/people/Szidi and the Blue Door.jpg
   section: people
 - title: Szidi in Horsethief Canyon i
   description: Description of photo goes here
@@ -271,14 +255,6 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Acropolis.jpg
   section: places
-- title: Alberta Dawn
-  description: Description of photo goes here
-  image: assets/images/folio/places/Alberta Dawn.jpg
-  section: places
-- title: Alberta Hike
-  description: Description of photo goes here
-  image: assets/images/folio/places/Alberta Hike.jpg
-  section: places
 - title: Alberta Horses ii
   description: Description of photo goes here
   image: assets/images/folio/places/Alberta Horses 2.jpg
@@ -295,17 +271,9 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Ayasofya.jpg
   section: places
-- title: Blowfish
-  description: Description of photo goes here
-  image: assets/images/folio/places/Blowfish.jpg
-  section: places
 - title: Cappadocia from Above
   description: Description of photo goes here
   image: assets/images/folio/places/Cappadocia from Above.jpg
-  section: places
-- title: Cappadocia Market
-  description: Description of photo goes here
-  image: assets/images/folio/places/Cappadocia Market.jpg
   section: places
 - title: Cappadocia
   description: Description of photo goes here
@@ -331,10 +299,6 @@
   description: Description of photo goes here
   image: assets/images/folio/places/K Country, AB.jpg
   section: places
-- title: Night Lights, Tokyo
-  description: Description of photo goes here
-  image: assets/images/folio/places/Night Lights, Tokyo.jpg
-  section: places
 - title: Notre Dame
   description: Description of photo goes here
   image: assets/images/folio/places/Notre Dame.jpg
@@ -351,25 +315,13 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Omoide Yokocho.jpg
   section: places
-- title: Paris Pigeons
-  description: Description of photo goes here
-  image: assets/images/folio/places/Paris Pigeons.jpg
-  section: places
 - title: Rainy Brasov
   description: Description of photo goes here
   image: assets/images/folio/places/Rainy Brasov.jpg
   section: places
-- title: Road Relics
-  description: Description of photo goes here
-  image: assets/images/folio/places/Road Relics.jpg
-  section: places
 - title: Romanian Countryside
   description: Description of photo goes here
   image: assets/images/folio/places/Romanian Countryside.jpg
-  section: places
-- title: Shanghai
-  description: Description of photo goes here
-  image: assets/images/folio/places/Shaghai.jpg
   section: places
 - title: Sighisoara
   description: Description of photo goes here
@@ -379,13 +331,9 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Stray.jpg
   section: places
-- title: Suzhou Canals i
+- title: Suzhou Canals
   description: Description of photo goes here
   image: assets/images/folio/places/Suzho Canals.jpg
-  section: places
-- title: Suzhou Canals ii
-  description: Description of photo goes here
-  image: assets/images/folio/places/Suzhou Canals 2.jpg
   section: places
 - title: Suzhou China at Night
   description: Description of photo goes here
@@ -415,13 +363,9 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
   section: places
-- title: Tsukiji Market ii
+- title: Tsukiji Market
   description: Description of photo goes here
   image: assets/images/folio/places/Tsukiji Market 2.jpg
-  section: places
-- title: Tsukiji Market i
-  description: Description of photo goes here
-  image: assets/images/folio/places/Tsukiji Market, Tokyo.jpg
   section: places
 - title: Wisdom Path, Hong Kong
   description: Description of photo goes here
