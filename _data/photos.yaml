@@ -51,10 +51,10 @@
   description: ''
   image: assets/images/folio/people/Karly 3.jpg
   section: people
-- title: Magnificent Meteora
-  description: ''
-  image: assets/images/folio/panos/Magnificent Meteora.jpg
-  section: panos
+- title: Tree in the Desert Waves
+  description: Description of photo goes here
+  image: assets/images/folio/places/Tree in the Desert Waves.jpg
+  section: places
 - title: Nathan and Sianna ii
   description: ''
   image: assets/images/folio/people/Nathan and Sianna 2.jpg
@@ -207,6 +207,10 @@
   description: ''
   image: assets/images/folio/people/Steve 2.jpg
   section: people
+- title: Magnificent Meteora
+  description: ''
+  image: assets/images/folio/panos/Magnificent Meteora.jpg
+  section: panos
 - title: Szabina Dress
   description: ''
   image: assets/images/folio/people/Szabina Dress.jpg
@@ -362,10 +366,6 @@
 - title: Tokyo Station
   description: ''
   image: assets/images/folio/places/Tokyo Station.jpg
-  section: places
-- title: Tree in the Desert Waves
-  description: Description of photo goes here
-  image: assets/images/folio/places/Tree in the Desert Waves.jpg
   section: places
 - title: Tsukiji Market
   description: ''
