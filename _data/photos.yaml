@@ -235,11 +235,11 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Ted.jpg
   section: people
-- title: Trevor ii
+- title: Trevor i
   description: Description of photo goes here
   image: assets/images/folio/people/Trevor 2.jpg
   section: people
-- title: Trevor i
+- title: Trevor ii
   description: Description of photo goes here
   image: assets/images/folio/people/Trevor.jpg
   section: people
@@ -255,11 +255,11 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Acropolis.jpg
   section: places
-- title: Alberta Horses ii
+- title: Alberta Horses
   description: Description of photo goes here
   image: assets/images/folio/places/Alberta Horses 2.jpg
   section: places
-- title: Alberta Horses i
+- title: Alberta Horses ii
   description: Description of photo goes here
   image: assets/images/folio/places/Alberta Horses.jpg
   section: places
