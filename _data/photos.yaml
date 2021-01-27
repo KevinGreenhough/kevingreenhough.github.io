@@ -47,17 +47,13 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Nathan and His Car.jpg
   section: people
-- title: Nathan and Sianna ii
-  description: Description of photo goes here
-  image: assets/images/folio/people/Nathan and Sianna 2.jpg
-  section: people
-- title: Maryka
-  description: Description of photo goes here
-  image: assets/images/folio/panos/Maryka.jpg
-  section: panos
 - title: Nathan and Sianna i
   description: Description of photo goes here
   image: assets/images/folio/people/Nathan and Sianna.jpg
+  section: people
+- title: Nathan and Sianna ii
+  description: Description of photo goes here
+  image: assets/images/folio/people/Nathan and Sianna 2.jpg
   section: people
 - title: Nathan in Blue
   description: Description of photo goes here
@@ -67,6 +63,10 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Nik, Tokyo Japan.jpg
   section: people
+- title: Maryka
+  description: Description of photo goes here
+  image: assets/images/folio/panos/Maryka.jpg
+  section: panos
 - title: Amanda i
   description: Description of photo goes here
   image: assets/images/folio/people/Amanda 1.jpg
@@ -78,6 +78,10 @@
 - title: Arah i
   description: Description of photo goes here
   image: assets/images/folio/people/Arah 1.jpg
+  section: people
+- title: Arah ii
+  description: Description of photo goes here
+  image: assets/images/folio/people/Arah 2.jpg
   section: people
 - title: At the Bar
   description: Description of photo goes here
@@ -115,17 +119,13 @@
   description: Description of photo goes here
   image: assets/images/folio/people/Druid-.jpg
   section: people
-- title: Kevin didn't name this photo
+- title: Kristen iii
   description: Description of photo goes here
   image: assets/images/folio/people/DSCF2123-.jpg
   section: people
 - title: Kevin didn't name this photo either
   description: Description of photo goes here
   image: assets/images/folio/people/DSCF2215.jpg
-  section: people
-- title: Arah ii
-  description: Description of photo goes here
-  image: assets/images/folio/people/Arah 2.jpg
   section: people
 - title: Emily in Red
   description: Description of photo goes here
