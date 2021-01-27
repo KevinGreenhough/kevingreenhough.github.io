@@ -339,6 +339,10 @@
   description: ''
   image: assets/images/folio/places/Suzho Canals.jpg
   section: places
+- title: Wuxi Bridge
+  description: ''
+  image: assets/images/folio/places/Wuxi Bridge.jpg
+  section: places
 - title: Suzhou China at Night
   description: ''
   image: assets/images/folio/places/Suzhou China at Night.jpg
@@ -352,11 +356,11 @@
   image: assets/images/folio/places/Tokyo Colours.jpg
   section: places
 - title: Tokyo Commute
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Tokyo Commute.jpg
   section: places
 - title: Tokyo Station
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Tokyo Station.jpg
   section: places
 - title: Tree in the Desert Waves
@@ -364,19 +368,15 @@
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
   section: places
 - title: Tsukiji Market
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Tsukiji Market 2.jpg
   section: places
 - title: Wisdom Path, Hong Kong
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Wisdom Path, Hong Kong.jpg
   section: places
-- title: Wuxi Bridge
-  description: Description of photo goes here
-  image: assets/images/folio/places/Wuxi Bridge.jpg
-  section: places
 - title: Wired In
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/featured/Wired In 1.jpg
   section: featured
 - title: Wired In
