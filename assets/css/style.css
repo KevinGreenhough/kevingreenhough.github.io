@@ -58,6 +58,18 @@ body {
   right: 0;
   bottom: 0;
 }
+
+.loader-text {
+	width: 400px;
+	height: 40px;
+	position: absolute;
+	margin: auto auto;
+	color: #fff;
+	left: 0;
+	top: 110px;
+	right: 0;
+	bottom: 0;
+  }
 .double-bounce1,
 .double-bounce2 {
   width: 100%;
@@ -99,7 +111,7 @@ body {
 } 
 /*--------------Typography--------------------------------------*/
 p {
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 24px;
 	padding-bottom: 10px;
 	font-weight: 500;
@@ -1514,7 +1526,7 @@ blockquote p {
     -webkit-appearance: none;
     position: relative;
     color: #fff;
-    font-size: 10px;
+    font-size: 14px;
 	letter-spacing:1px;
 	text-transform:uppercase;
     font-weight: 700;

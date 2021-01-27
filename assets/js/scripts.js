@@ -602,6 +602,9 @@
                      });
                      $(".gallery-filters a").removeClass("gallery-filter-active");
                      $(this).addClass("gallery-filter-active");
+                     if ($(window).width() < 1064) {
+                        $(".gallery-filters").delay(400).slideToggle(100);
+                     }
                  });
                  d.isotope("on", "layoutComplete", function(a, b) {
                      var b = a.length,
