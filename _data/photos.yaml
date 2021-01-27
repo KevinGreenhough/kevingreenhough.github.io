@@ -35,9 +35,17 @@
   description: ''
   image: assets/images/folio/people/Nathan and His Car.jpg
   section: people
+- title: Nathan in Blue
+  description: ''
+  image: assets/images/folio/people/Nathan in Blue.jpg
+  section: people
 - title: Nathan and Sianna i
   description: ''
   image: assets/images/folio/people/Nathan and Sianna.jpg
+  section: people
+- title: Nathan and Sianna ii
+  description: ''
+  image: assets/images/folio/people/Nathan and Sianna 2.jpg
   section: people
 - title: Karly i
   description: ''
@@ -51,18 +59,6 @@
   description: ''
   image: assets/images/folio/people/Karly 3.jpg
   section: people
-- title: Tree in the Desert Waves
-  description: Description of photo goes here
-  image: assets/images/folio/places/Tree in the Desert Waves.jpg
-  section: places
-- title: Nathan and Sianna ii
-  description: ''
-  image: assets/images/folio/people/Nathan and Sianna 2.jpg
-  section: people
-- title: Nathan in Blue
-  description: ''
-  image: assets/images/folio/people/Nathan in Blue.jpg
-  section: people
 - title: Nik, Tokyo Japan
   description: ''
   image: assets/images/folio/people/Nik, Tokyo Japan.jpg
@@ -71,6 +67,10 @@
   description: ''
   image: assets/images/folio/panos/Maryka.jpg
   section: panos
+- title: Tree in the Desert Waves
+  description: Description of photo goes here
+  image: assets/images/folio/places/Tree in the Desert Waves.jpg
+  section: places
 - title: Amanda i
   description: ''
   image: assets/images/folio/people/Amanda 1.jpg
