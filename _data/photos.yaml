@@ -232,35 +232,35 @@
   image: assets/images/folio/people/Taya.jpg
   section: people
 - title: Ted
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Ted.jpg
   section: people
 - title: Trevor i
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Trevor 2.jpg
   section: people
 - title: Trevor ii
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Trevor.jpg
   section: people
 - title: Unreachable
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Unreachable.jpg
   section: people
 - title: Vasili
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Vasili.jpg
   section: people
 - title: Acropolis
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Acropolis.jpg
   section: places
 - title: Alberta Horses
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Alberta Horses 2.jpg
   section: places
 - title: Alberta Horses ii
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Alberta Horses.jpg
   section: places
 - title: Antelope Canyon, Arizona
