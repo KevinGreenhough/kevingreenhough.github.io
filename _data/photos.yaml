@@ -283,6 +283,10 @@
   description: ''
   image: assets/images/folio/places/Daily Catch.jpg
   section: places
+- title: Tai O Fishing Village, Hong Kong
+  description: ''
+  image: assets/images/folio/places/Tai O Fishing Village, Hong Kong.jpg
+  section: places
 - title: Distant Pagoda
   description: ''
   image: assets/images/folio/places/Distant Pagoda.jpg
@@ -332,19 +336,15 @@
   image: assets/images/folio/places/Stray.jpg
   section: places
 - title: Suzhou Canals
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Suzho Canals.jpg
   section: places
 - title: Suzhou China at Night
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Suzhou China at Night.jpg
   section: places
-- title: Tai O Fishing Village, Hong Kong
-  description: Description of photo goes here
-  image: assets/images/folio/places/Tai O Fishing Village, Hong Kong.jpg
-  section: places
 - title: The Road's Rewards
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/The Road's Rewards.jpg
   section: places
 - title: Tokyo Colours
