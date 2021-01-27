@@ -288,7 +288,7 @@
   image: assets/images/folio/places/Cappadocia from Above.jpg
   section: places
 - title: Cappadocia
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Cappadocia.jpg
   section: places
 - title: Wisdom Path, Hong Kong
@@ -360,7 +360,7 @@
   image: assets/images/folio/places/The Road's Rewards.jpg
   section: places
 - title: Tokyo Colours
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Tokyo Colours.jpg
   section: places
 - title: Tokyo Commute
