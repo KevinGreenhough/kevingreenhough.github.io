@@ -1,8 +1,4 @@
 ---
-- title: Tracy, Alberta Ice Climber
-  description: ''
-  image: assets/images/tracy-2000px.jpg
-  section: panos
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -119,6 +115,10 @@
   description: ''
   image: assets/images/folio/people/Druid-.jpg
   section: people
+- title: Tracy, Alberta Ice Climber
+  description: ''
+  image: assets/images/tracy-2000px.jpg
+  section: panos
 - title: Kristen iii
   description: ''
   image: assets/images/folio/people/DSCF2123-.jpg
