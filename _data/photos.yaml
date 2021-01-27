@@ -264,15 +264,15 @@
   image: assets/images/folio/places/Alberta Horses.jpg
   section: places
 - title: Antelope Canyon, Arizona
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Antelope Canyon, Arizona.jpg
   section: places
 - title: Ayasofya
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Ayasofya.jpg
   section: places
 - title: Cappadocia from Above
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Cappadocia from Above.jpg
   section: places
 - title: Cappadocia
@@ -280,23 +280,23 @@
   image: assets/images/folio/places/Cappadocia.jpg
   section: places
 - title: Daily Catch
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Daily Catch.jpg
   section: places
 - title: Distant Pagoda
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Distant Pagoda.jpg
   section: places
 - title: Edge of the World
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Edge of the World.jpg
   section: places
 - title: Garden of the Gods National Park, CO
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/Garden of the Gods National Park, CO.jpg
   section: places
 - title: K Country, AB
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/places/K Country, AB.jpg
   section: places
 - title: Notre Dame
