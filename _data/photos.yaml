@@ -15,18 +15,6 @@
   description: ''
   image: assets/images/folio/panos/Oia Sunset.jpg
   section: panos
-- title: Karly i
-  description: ''
-  image: assets/images/folio/people/Karly 1.jpg
-  section: people
-- title: Karly ii
-  description: ''
-  image: assets/images/folio/people/Karly 2.jpg
-  section: people
-- title: Karly iii
-  description: ''
-  image: assets/images/folio/people/Karly 3.jpg
-  section: people
 - title: Lady of the Forest i
   description: ''
   image: assets/images/folio/people/Lady of the Forest Concept Shoot 1.jpg
@@ -39,10 +27,10 @@
   description: ''
   image: assets/images/folio/people/Lady of the Forest Concept Shoot 3.jpg
   section: people
-- title: Magnificent Meteora
+- title: Omoide Yokocho
   description: ''
-  image: assets/images/folio/panos/Magnificent Meteora.jpg
-  section: panos
+  image: assets/images/folio/places/Omoide Yokocho.jpg
+  section: places
 - title: Nathan and His Car
   description: ''
   image: assets/images/folio/people/Nathan and His Car.jpg
@@ -51,6 +39,22 @@
   description: ''
   image: assets/images/folio/people/Nathan and Sianna.jpg
   section: people
+- title: Karly i
+  description: ''
+  image: assets/images/folio/people/Karly 1.jpg
+  section: people
+- title: Karly ii
+  description: ''
+  image: assets/images/folio/people/Karly 2.jpg
+  section: people
+- title: Karly iii
+  description: ''
+  image: assets/images/folio/people/Karly 3.jpg
+  section: people
+- title: Magnificent Meteora
+  description: ''
+  image: assets/images/folio/panos/Magnificent Meteora.jpg
+  section: panos
 - title: Nathan and Sianna ii
   description: ''
   image: assets/images/folio/people/Nathan and Sianna 2.jpg
@@ -314,10 +318,6 @@
 - title: Omoide Yokocho ii
   description: ''
   image: assets/images/folio/places/Omoide Yokocho ii.jpg
-  section: places
-- title: Omoide Yokocho
-  description: ''
-  image: assets/images/folio/places/Omoide Yokocho.jpg
   section: places
 - title: Rainy Brasov
   description: ''
