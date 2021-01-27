@@ -437,10 +437,6 @@
   section: featured
 - title: Wired In
   description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 2.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
   image: assets/images/folio/featured/Wired In 3.jpg
   section: featured
 - title: Wired In
@@ -453,27 +449,7 @@
   section: featured
 - title: Wired In
   description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 6.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 7.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 8.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
   image: assets/images/folio/featured/Wired In 9.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 10.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 11.jpg
   section: featured
 - title: Wired In
   description: Description of photo goes here
@@ -494,12 +470,4 @@
 - title: Wired In
   description: Description of photo goes here
   image: assets/images/folio/featured/Wired In 16.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 17.jpg
-  section: featured
-- title: Wired In
-  description: Description of photo goes here
-  image: assets/images/folio/featured/Wired In 18.jpg
   section: featured
