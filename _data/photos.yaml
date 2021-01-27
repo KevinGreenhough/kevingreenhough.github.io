@@ -103,17 +103,9 @@
   description: ''
   image: assets/images/folio/people/Campout.jpg
   section: people
-- title: Courtney and Ryan
-  description: ''
-  image: assets/images/folio/people/Courtney and Ryan.jpg
-  section: people
 - title: Craig, Utah Desert
   description: ''
   image: assets/images/folio/people/Craig, Utah Desert.jpg
-  section: people
-- title: Devin and Nicole
-  description: ''
-  image: assets/images/folio/people/Devin and Nicole.jpg
   section: people
 - title: Druid
   description: ''
@@ -127,40 +119,48 @@
   description: ''
   image: assets/images/folio/people/DSCF2215.jpg
   section: people
+- title: Courtney and Ryan
+  description: ''
+  image: assets/images/folio/people/Courtney and Ryan.jpg
+  section: people
+- title: Devin and Nicole
+  description: ''
+  image: assets/images/folio/people/Devin and Nicole.jpg
+  section: people
 - title: Emily in Red
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Emily in Red.jpg
   section: people
 - title: Emily Incognito
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Emily Incognito.jpg
   section: people
 - title: Tokyo Skytree
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/panos/Tokyo Skytree.jpg
   section: panos
 - title: Emily, Golden Gal
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Emily, Golden Gal.jpg
   section: people
 - title: Emily, Omoide Yokocho
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Emily, Omoide Yokocho.jpg
   section: people
 - title: Emily
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Emily.jpg
   section: people
 - title: Flower Girl
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Flower Girl.jpg
   section: people
 - title: Friends in High Places, Pikes Peak, CO
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Friends in High Places, Pikes Peak, CO.jpg
   section: people
 - title: Jess
-  description: Description of photo goes here
+  description: ''
   image: assets/images/folio/people/Jess.jpg
   section: people
 - title: John
