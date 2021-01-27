@@ -291,6 +291,10 @@
   description: Description of photo goes here
   image: assets/images/folio/places/Cappadocia.jpg
   section: places
+- title: Wisdom Path, Hong Kong
+  description: ''
+  image: assets/images/folio/places/Wisdom Path, Hong Kong.jpg
+  section: places
 - title: Daily Catch
   description: ''
   image: assets/images/folio/places/Daily Catch.jpg
@@ -370,10 +374,6 @@
 - title: Tsukiji Market
   description: ''
   image: assets/images/folio/places/Tsukiji Market 2.jpg
-  section: places
-- title: Wisdom Path, Hong Kong
-  description: ''
-  image: assets/images/folio/places/Wisdom Path, Hong Kong.jpg
   section: places
 - title: Wired In
   description: ''
