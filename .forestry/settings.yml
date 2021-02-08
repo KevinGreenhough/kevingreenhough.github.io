@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _config.yaml
+  path: _config.yml
   label: config
-  match: "**/*"
 - type: document
   path: _data/photos.yaml
   label: Photos
