@@ -1,7 +1,7 @@
 ---
-- title: Neel iii
+- title: Neel iv
   description: ''
-  image: assets/images/neel-iii.jpg
+  image: assets/images/neel-iv.jpg
   section: featured
 - title: The Bosphorus
   description: ''
@@ -71,6 +71,10 @@
   description: ''
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
   section: places
+- title: Neel iii
+  description: ''
+  image: assets/images/neel-iii.jpg
+  section: featured
 - title: Amanda
   description: ''
   image: assets/images/folio/people/Amanda 1.jpg
