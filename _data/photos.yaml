@@ -1,8 +1,4 @@
 ---
-- title: Lone Ship
-  description: ''
-  image: assets/images/lone-ship-nl-coast.jpg
-  section: panos
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -75,6 +71,10 @@
   description: ''
   image: assets/images/downtown-saint-john-s.jpg
   section: places
+- title: Lone Ship
+  description: ''
+  image: assets/images/lone-ship-nl-coast.jpg
+  section: panos
 - title: Tree in the Desert Waves
   description: ''
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
