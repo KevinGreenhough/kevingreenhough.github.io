@@ -1,8 +1,4 @@
 ---
-- title: Neel ii
-  description: ''
-  image: assets/images/neel-ii.jpg
-  section: featured
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -18,7 +14,7 @@
 - title: Neel
   description: ''
   image: assets/images/neel.jpg
-  section: people
+  section: featured
 - title: Oia Sunset
   description: ''
   image: assets/images/folio/panos/Oia Sunset.jpg
@@ -39,6 +35,10 @@
   description: ''
   image: assets/images/folio/places/Omoide Yokocho.jpg
   section: places
+- title: Neel ii
+  description: ''
+  image: assets/images/neel-ii.jpg
+  section: featured
 - title: Nathan and His Car
   description: ''
   image: assets/images/folio/people/Nathan and His Car.jpg
