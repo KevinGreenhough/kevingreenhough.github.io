@@ -1,8 +1,8 @@
 ---
-- title: Nathan, in studio
+- title: Downtown Saint John's
   description: ''
-  image: assets/images/nathan-in-studio.jpg
-  section: people
+  image: assets/images/downtown-saint-john-s.jpg
+  section: places
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -90,6 +90,10 @@
 - title: Rainy Days
   description: ''
   image: assets/images/rainy-days.jpg
+  section: people
+- title: Nathan, in studio
+  description: ''
+  image: assets/images/nathan-in-studio.jpg
   section: people
 - title: At the Bar
   description: ''
