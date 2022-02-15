@@ -134,15 +134,15 @@
 - title: Triss Merigold Cosplay
   description: ''
   image: assets/images/triss-cosplay.jpg
-  section: people
+  section: people, featured
 - title: Triss Cosplay ii
   description: ''
   image: assets/images/triss-cosplay-ii.jpg
-  section: people
+  section: people, featured
 - title: Triss Cosplay iii
   description: ''
   image: assets/images/triss-cosplay-iii.jpg
-  section: people
+  section: people, featured
 - title: Triss Cosplay IV
   description: ''
   image: assets/images/triss-cosplay-iv.jpg
