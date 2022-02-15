@@ -182,7 +182,7 @@
 - title: Tokyo Skytree
   description: ''
   image: assets/images/folio/panos/Tokyo Skytree.jpg
-  section: panos, places
+  section: places, panos
 - title: Emily, Golden Gal
   description: ''
   image: assets/images/folio/people/Emily, Golden Gal.jpg
@@ -242,7 +242,7 @@
 - title: Magnificent Meteora
   description: ''
   image: assets/images/folio/panos/Magnificent Meteora.jpg
-  section: panos
+  section: places, panos
 - title: Szabina Dress
   description: ''
   image: assets/images/folio/people/Szabina Dress.jpg
