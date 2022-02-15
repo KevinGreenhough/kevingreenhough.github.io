@@ -143,14 +143,14 @@
   description: ''
   image: assets/images/folio/people/Emily, Omoide Yokocho.jpg
   section: people
-- title: Neel iv
-  description: ''
-  image: assets/images/neel-iv.jpg
-  section: featured
 - title: Emily
   description: ''
   image: assets/images/folio/people/Emily.jpg
   section: people
+- title: Neel iv
+  description: ''
+  image: assets/images/neel-iv.jpg
+  section: featured
 - title: Flower Girl
   description: ''
   image: assets/images/folio/people/Flower Girl.jpg
