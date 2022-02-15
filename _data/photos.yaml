@@ -1,8 +1,4 @@
 ---
-- title: Neon Noir Concept Shoot
-  description: ''
-  image: assets/images/neon-noir-concept-shoot-i.jpg
-  section: panos
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -107,6 +103,10 @@
   description: ''
   image: assets/images/nathan-in-studio.jpg
   section: people
+- title: Neon Noir Concept Shoot
+  description: ''
+  image: assets/images/neon-noir-concept-shoot-i.jpg
+  section: panos
 - title: Neon Noir Concept Shoot ii
   description: ''
   image: assets/images/neon-noir-concept-shoot-ii.jpg
@@ -406,7 +406,7 @@
 - title: Wired In
   description: ''
   image: assets/images/folio/featured/Wired In 3.jpg
-  section: featured
+  section: people
 - title: Wired In
   description: ''
   image: assets/images/folio/featured/Wired In 9.jpg
