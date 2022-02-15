@@ -110,11 +110,11 @@
 - title: Neon Noir Concept Shoot
   description: ''
   image: assets/images/neon-noir-concept-shoot-i.jpg
-  section: panos
+  section: panos, people
 - title: Neon Noir Concept Shoot ii
   description: ''
   image: assets/images/neon-noir-concept-shoot-ii.jpg
-  section: panos
+  section: panos, people
 - title: At the Bar
   description: ''
   image: assets/images/folio/people/At the Bar.jpg
@@ -182,7 +182,7 @@
 - title: Tokyo Skytree
   description: ''
   image: assets/images/folio/panos/Tokyo Skytree.jpg
-  section: panos
+  section: panos, places
 - title: Emily, Golden Gal
   description: ''
   image: assets/images/folio/people/Emily, Golden Gal.jpg
