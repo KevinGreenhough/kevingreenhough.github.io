@@ -1,7 +1,7 @@
 ---
-- title: Triss Cosplay ii
+- title: Triss Cosplay iii
   description: ''
-  image: assets/images/triss-cosplay-ii.jpg
+  image: assets/images/triss-cosplay-iii.jpg
   section: people
 - title: The Bosphorus
   description: ''
@@ -106,6 +106,10 @@
 - title: Triss Merigold Cosplay
   description: ''
   image: assets/images/triss-cosplay.jpg
+  section: people
+- title: Triss Cosplay ii
+  description: ''
+  image: assets/images/triss-cosplay-ii.jpg
   section: people
 - title: Campout
   description: ''
