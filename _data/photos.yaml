@@ -1,7 +1,7 @@
 ---
-- title: Neon Noir Concept Shoot ii
+- title: Neon Noir Concept Shoot
   description: ''
-  image: assets/images/neon-noir-concept-shoot-ii.jpg
+  image: assets/images/neon-noir-concept-shoot-i.jpg
   section: panos
 - title: The Bosphorus
   description: ''
@@ -107,6 +107,10 @@
   description: ''
   image: assets/images/nathan-in-studio.jpg
   section: people
+- title: Neon Noir Concept Shoot ii
+  description: ''
+  image: assets/images/neon-noir-concept-shoot-ii.jpg
+  section: panos
 - title: At the Bar
   description: ''
   image: assets/images/folio/people/At the Bar.jpg
