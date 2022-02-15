@@ -14,7 +14,7 @@
 - title: Oia Sunset
   description: ''
   image: assets/images/folio/panos/Oia Sunset.jpg
-  section: panos
+  section: panos, places
 - title: Lady of the Forest i
   description: ''
   image: assets/images/folio/people/Lady of the Forest Concept Shoot 1.jpg
@@ -42,11 +42,11 @@
 - title: Neel iii
   description: ''
   image: assets/images/neel-iii.jpg
-  section: featured
+  section: people, featured
 - title: Neel iv
   description: ''
   image: assets/images/neel-iv.jpg
-  section: featured
+  section: people, featured
 - title: Nathan and His Car
   description: ''
   image: assets/images/folio/people/Nathan and His Car.jpg
