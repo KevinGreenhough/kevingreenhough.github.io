@@ -1,8 +1,4 @@
 ---
-- title: Triss Cosplay IV
-  description: ''
-  image: assets/images/triss-cosplay-iv.jpg
-  section: people
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -114,6 +110,10 @@
 - title: Triss Cosplay iii
   description: ''
   image: assets/images/triss-cosplay-iii.jpg
+  section: people
+- title: Triss Cosplay IV
+  description: ''
+  image: assets/images/triss-cosplay-iv.jpg
   section: people
 - title: Campout
   description: ''
