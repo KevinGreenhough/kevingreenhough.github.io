@@ -39,14 +39,6 @@
   description: ''
   image: assets/images/folio/people/Nathan in Blue.jpg
   section: people
-- title: Nathan and Sianna i
-  description: ''
-  image: assets/images/folio/people/Nathan and Sianna.jpg
-  section: people
-- title: Nathan and Sianna ii
-  description: ''
-  image: assets/images/folio/people/Nathan and Sianna 2.jpg
-  section: people
 - title: Karly i
   description: ''
   image: assets/images/folio/people/Karly 1.jpg
@@ -63,21 +55,13 @@
   description: ''
   image: assets/images/folio/people/Nik, Tokyo Japan.jpg
   section: people
-- title: Maryka
-  description: ''
-  image: assets/images/folio/panos/Maryka.jpg
-  section: panos
 - title: Tree in the Desert Waves
   description: ''
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
   section: places
-- title: Amanda i
+- title: Amanda
   description: ''
   image: assets/images/folio/people/Amanda 1.jpg
-  section: people
-- title: Amanda ii
-  description: ''
-  image: assets/images/folio/people/Amanda 2.jpg
   section: people
 - title: Arah i
   description: ''
@@ -243,10 +227,6 @@
   description: ''
   image: assets/images/folio/people/Taya.jpg
   section: people
-- title: Ted
-  description: ''
-  image: assets/images/folio/people/Ted.jpg
-  section: people
 - title: Trevor i
   description: ''
   image: assets/images/folio/people/Trevor 2.jpg
@@ -351,10 +331,6 @@
   description: ''
   image: assets/images/folio/places/Wuxi Bridge.jpg
   section: places
-- title: Suzhou China at Night
-  description: ''
-  image: assets/images/folio/places/Suzhou China at Night.jpg
-  section: places
 - title: The Road's Rewards
   description: ''
   image: assets/images/folio/places/The Road's Rewards.jpg
@@ -377,19 +353,7 @@
   section: places
 - title: Wired In
   description: ''
-  image: assets/images/folio/featured/Wired In 1.jpg
-  section: featured
-- title: Wired In
-  description: ''
   image: assets/images/folio/featured/Wired In 3.jpg
-  section: featured
-- title: Wired In
-  description: ''
-  image: assets/images/folio/featured/Wired In 4.jpg
-  section: featured
-- title: Wired In
-  description: ''
-  image: assets/images/folio/featured/Wired In 5.jpg
   section: featured
 - title: Wired In
   description: ''
@@ -402,16 +366,4 @@
 - title: Wired In
   description: ''
   image: assets/images/folio/featured/Wired In 13.jpg
-  section: featured
-- title: Wired In
-  description: ''
-  image: assets/images/folio/featured/Wired In 14.jpg
-  section: featured
-- title: Wired In
-  description: ''
-  image: assets/images/folio/featured/Wired In 15.jpg
-  section: featured
-- title: Wired In
-  description: ''
-  image: assets/images/folio/featured/Wired In 16.jpg
   section: featured
