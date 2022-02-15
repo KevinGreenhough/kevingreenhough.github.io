@@ -82,7 +82,7 @@
 - title: Lone Ship
   description: ''
   image: assets/images/lone-ship-nl-coast.jpg
-  section: places, panos
+  section: panos
 - title: Tree in the Desert Waves
   description: ''
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
@@ -110,11 +110,11 @@
 - title: Neon Noir Concept Shoot
   description: ''
   image: assets/images/neon-noir-concept-shoot-i.jpg
-  section: people, panos
+  section: panos
 - title: Neon Noir Concept Shoot ii
   description: ''
   image: assets/images/neon-noir-concept-shoot-ii.jpg
-  section: people, panos
+  section: panos
 - title: At the Bar
   description: ''
   image: assets/images/folio/people/At the Bar.jpg
