@@ -1,8 +1,8 @@
 ---
-- title: Neel
+- title: Neel ii
   description: ''
-  image: assets/images/neel.jpg
-  section: people
+  image: assets/images/neel-ii.jpg
+  section: featured
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -14,6 +14,10 @@
 - title: Kristen Black on White ii
   description: ''
   image: assets/images/folio/people/Kristen Black on White 2.jpg
+  section: people
+- title: Neel
+  description: ''
+  image: assets/images/neel.jpg
   section: people
 - title: Oia Sunset
   description: ''
