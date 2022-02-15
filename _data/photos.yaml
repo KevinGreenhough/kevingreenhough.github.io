@@ -1,7 +1,7 @@
 ---
-- title: Rainy Days
+- title: Nathan, in studio
   description: ''
-  image: assets/images/rainy-days.jpg
+  image: assets/images/nathan-in-studio.jpg
   section: people
 - title: The Bosphorus
   description: ''
@@ -86,6 +86,10 @@
 - title: Arah ii
   description: ''
   image: assets/images/folio/people/Arah 2.jpg
+  section: people
+- title: Rainy Days
+  description: ''
+  image: assets/images/rainy-days.jpg
   section: people
 - title: At the Bar
   description: ''
