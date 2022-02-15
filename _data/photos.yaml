@@ -34,11 +34,11 @@
 - title: Neel
   description: ''
   image: assets/images/neel.jpg
-  section: featured
+  section: people, featured
 - title: Neel ii
   description: ''
   image: assets/images/neel-ii.jpg
-  section: featured
+  section: people, featured
 - title: Neel iii
   description: ''
   image: assets/images/neel-iii.jpg
@@ -146,7 +146,7 @@
 - title: Triss Cosplay IV
   description: ''
   image: assets/images/triss-cosplay-iv.jpg
-  section: people
+  section: people, featured
 - title: Campout
   description: ''
   image: assets/images/folio/people/Campout.jpg
