@@ -1,8 +1,8 @@
 ---
-- title: Newfoundland
+- title: Lone Ship
   description: ''
-  image: assets/images/newfoundland.jpg
-  section: places
+  image: assets/images/lone-ship-nl-coast.jpg
+  section: panos
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -67,6 +67,10 @@
   description: ''
   image: assets/images/folio/people/Nik, Tokyo Japan.jpg
   section: people
+- title: Newfoundland
+  description: ''
+  image: assets/images/newfoundland.jpg
+  section: places
 - title: Downtown Saint John's
   description: ''
   image: assets/images/downtown-saint-john-s.jpg
