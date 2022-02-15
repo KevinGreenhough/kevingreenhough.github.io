@@ -11,10 +11,6 @@
   description: ''
   image: assets/images/folio/people/Kristen Black on White 2.jpg
   section: people
-- title: Neel
-  description: ''
-  image: assets/images/neel.jpg
-  section: featured
 - title: Oia Sunset
   description: ''
   image: assets/images/folio/panos/Oia Sunset.jpg
@@ -35,9 +31,21 @@
   description: ''
   image: assets/images/folio/places/Omoide Yokocho.jpg
   section: places
+- title: Neel
+  description: ''
+  image: assets/images/neel.jpg
+  section: featured
 - title: Neel ii
   description: ''
   image: assets/images/neel-ii.jpg
+  section: featured
+- title: Neel iii
+  description: ''
+  image: assets/images/neel-iii.jpg
+  section: featured
+- title: Neel iv
+  description: ''
+  image: assets/images/neel-iv.jpg
   section: featured
 - title: Nathan and His Car
   description: ''
@@ -79,10 +87,6 @@
   description: ''
   image: assets/images/folio/places/Tree in the Desert Waves.jpg
   section: places
-- title: Neel iii
-  description: ''
-  image: assets/images/neel-iii.jpg
-  section: featured
 - title: Amanda
   description: ''
   image: assets/images/folio/people/Amanda 1.jpg
@@ -191,10 +195,6 @@
   description: ''
   image: assets/images/folio/people/Emily.jpg
   section: people
-- title: Neel iv
-  description: ''
-  image: assets/images/neel-iv.jpg
-  section: featured
 - title: Flower Girl
   description: ''
   image: assets/images/folio/people/Flower Girl.jpg
@@ -319,6 +319,22 @@
   description: ''
   image: assets/images/folio/places/Cappadocia.jpg
   section: places
+- title: Wired In
+  description: ''
+  image: assets/images/folio/featured/Wired In 3.jpg
+  section: people, featured
+- title: Wired In ii
+  description: ''
+  image: assets/images/folio/featured/Wired In 9.jpg
+  section: people, featured
+- title: Wired In iii
+  description: ''
+  image: assets/images/folio/featured/Wired In 12.jpg
+  section: people, featured
+- title: Wired In iv
+  description: ''
+  image: assets/images/folio/featured/Wired In 13.jpg
+  section: people
 - title: Wisdom Path, Hong Kong
   description: ''
   image: assets/images/folio/places/Wisdom Path, Hong Kong.jpg
@@ -399,19 +415,3 @@
   description: ''
   image: assets/images/folio/places/Tsukiji Market 2.jpg
   section: places
-- title: Wired In
-  description: ''
-  image: assets/images/folio/featured/Wired In 3.jpg
-  section: people
-- title: Wired In ii
-  description: ''
-  image: assets/images/folio/featured/Wired In 9.jpg
-  section: people
-- title: Wired In iii
-  description: ''
-  image: assets/images/folio/featured/Wired In 12.jpg
-  section: people
-- title: Wired In iv
-  description: ''
-  image: assets/images/folio/featured/Wired In 13.jpg
-  section: people
