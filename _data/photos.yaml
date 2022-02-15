@@ -1,8 +1,4 @@
 ---
-- title: Neel iv
-  description: ''
-  image: assets/images/neel-iv.jpg
-  section: featured
 - title: The Bosphorus
   description: ''
   image: assets/images/folio/places/The Bosphorus.jpg
@@ -119,14 +115,6 @@
   description: ''
   image: assets/images/tracy-2000px.jpg
   section: panos
-- title: Kristen iii
-  description: ''
-  image: assets/images/folio/people/DSCF2123-.jpg
-  section: people
-- title: Kristen iv
-  description: ''
-  image: assets/images/folio/people/DSCF2215.jpg
-  section: people
 - title: Courtney and Ryan
   description: ''
   image: assets/images/folio/people/Courtney and Ryan.jpg
@@ -155,6 +143,10 @@
   description: ''
   image: assets/images/folio/people/Emily, Omoide Yokocho.jpg
   section: people
+- title: Neel iv
+  description: ''
+  image: assets/images/neel-iv.jpg
+  section: featured
 - title: Emily
   description: ''
   image: assets/images/folio/people/Emily.jpg
